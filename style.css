@@ -1,0 +1,94 @@
+*
+	{
+		margin:0px;
+		padding:0px;
+		box-sizing:border-box;
+	}
+
+/*Registration Form*/
+h3
+	{
+		color:white;;
+	}
+.reg
+	{
+		
+		margin:30px auto;
+		text-align:center;
+		width:500px;
+		height:500px;
+		background:rgba(0,0,0,0);
+		padding:20px;
+		border-radius:5px;
+		transition:2s;
+	}
+.fld
+	{
+		width:430px;
+		padding:15px;
+		margin:5px;
+		border-radius:5px;
+		outline:none;
+		color:dodgerblue;
+		border:1px solid dodgerblue;
+	
+	}
+.fld:hover
+	{
+		/*transform:scale(1.1);
+		box-shadow:2px 4px 3px dodgerblue;*/
+	}
+.rad
+	{
+	    width:100px;
+	    padding:5px;
+	    margin:5px;
+	}
+.btn
+	{
+		width:150px;
+		padding:15px;
+		margin:5px;
+		border-radius:5px;
+		border:1px solid dodgerblue;
+	}
+/* Image */
+.gal img
+	{
+		width:800px;
+		height:705px;
+		margin:8px;
+		filter:grayscale(80);
+		transition:2s;
+		border-radius:5px;
+	}
+.gal img:hover
+	{
+		filter:grayscale(0);
+	}
+.ftr
+	{
+		width:100%;
+		color:white;
+		height:30px;
+		padding:10px;
+		text-align:center;
+		background-color:dodgerblue;
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
